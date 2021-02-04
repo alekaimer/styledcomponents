@@ -5,6 +5,7 @@ function App() {
     <div>
       <Title>
         Hello word!
+        <span>:)</span>
       </Title>
     </div>
   );
