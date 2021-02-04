@@ -1,12 +1,13 @@
-import { Title } from "./styles";
+import { Title, TitleSmall } from "./styles";
 
 function App() {
   return (
     <div>
-      <Title fontSize={36}>
+      <Title fontSize={136}>
         Hello word!
         <span>:)</span>
       </Title>
+      <TitleSmall>Texto menor</TitleSmall>
     </div>
   );
 }
