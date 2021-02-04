@@ -3,7 +3,7 @@ import { Title } from "./styles";
 function App() {
   return (
     <div>
-      <Title>
+      <Title fontSize={36}>
         Hello word!
         <span>:)</span>
       </Title>
