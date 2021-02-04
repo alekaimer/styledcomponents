@@ -1,7 +1,11 @@
+import { Title } from "./styles";
+
 function App() {
   return (
     <div>
-      Hello word!
+      <Title>
+        Hello word!
+      </Title>
     </div>
   );
 }
